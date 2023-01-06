@@ -1,4 +1,5 @@
 Config                 = {}
+Config.Locale          = GetConvar('esx:locale', 'id')
 Config.UseMythicNotify = true
 
 Config.Blips = {
