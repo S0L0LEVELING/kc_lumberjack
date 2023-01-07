@@ -26,8 +26,6 @@ ESX
 4) Edit config `kc_lumberjack` jika kalian butuhkan untuk menyesuaikan dengan keadaan server kalian di `kc_lumberjack/config.lua`.
 5) Tambahkan `start kc_lumberjack` kedalam server config kalian.
 
-### Resmon
-
 ### Community
 > Discord server : https://discord.gg/BuACxn4XUw
 
